@@ -1,0 +1,8 @@
+MODULE NuclearJMPT_fd
+  INTEGER NuclearJMPT_Dummy
+END MODULE NuclearJMPT_fd
+
+
+MODULE Henre2JMPT
+  INTEGER Henre2JMPT_Dummy
+END MODULE Henre2JMPT

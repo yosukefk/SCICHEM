@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualStudioUserFile ProjectCreator="Intel Fortran" Keyword="Console Application - Converted from CVF" Version="11.0" ProjectIdGuid="{00C0BA30-9F76-488B-B200-CF45224355BE}">
+	<Configurations>
+		<Configuration Name="Release|Win32"/>
+		<Configuration Name="Debug|Win32"/>
+		<Configuration Name="Release|x64" CommandArguments="-I:D:\scipuff\runs\epri\sciDosPost\scipuff.ini -i D:\scipuff\runs\epri\sciDosPost\no2-2005-mc.sciDOSpost.inp" WorkingDirectory="D:\scipuff\runs\epri\sciDosPost"/>
+		<Configuration Name="Debug|x64" CommandArguments="-I:D:\scipuff\runs\epri\sciDosPost\scipuff.ini -i D:\scipuff\runs\epri\sciDosPost\no2-2005-mc.sciDOSpost.inp" WorkingDirectory="D:\scipuff\runs\epri\sciDosPost"/></Configurations></VisualStudioUserFile>

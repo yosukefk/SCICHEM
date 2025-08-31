@@ -1,0 +1,4 @@
+# Include path for missing modules
+INCDIR=  $(M)${NETCDF_LIB_PATH}/include
+# Include file for makefile using static libraries
+LIBDEPENDS=libarap.a libsag.a libscipuff.a

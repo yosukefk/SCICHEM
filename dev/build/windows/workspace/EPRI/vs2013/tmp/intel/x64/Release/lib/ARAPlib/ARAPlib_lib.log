@@ -1,0 +1,26 @@
+﻿Build started 6/28/2021 1:46:02 PM.
+     1>Project "U:\scipuff\Repository\UNIX\EPRIx64_OMP\SCICHEM-3.2\build\windows\workspace\EPRI\vs2013\ARAPlib_lib.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I..\..\dll\util\fHDF5\inc\windows /Zi /nologo /W3 /WX- /O2 /Ob1 /D WIN32 /D NDEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0710 /D _MBCS /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"tmp\intel\x64\Release\lib\ARAPlib/" /Fd"tmp\intel\x64\Release\lib\ARAPlib/vc120.pdb" /Gd /TC /errorReport:prompt ..\..\..\src\lib\util\ARAPlib\C2Fortran.c ..\..\..\src\lib\util\ARAPlib\dib.c ..\..\..\src\lib\util\ARAPlib\pcx.c
+         C2Fortran.c
+         dib.c
+     1>..\..\..\src\lib\util\ARAPlib\dib.c(150): warning C4244: '=' : conversion from 'SIZE_T' to 'DWORD', possible loss of data
+     1>..\..\..\src\lib\util\ARAPlib\dib.c(165): warning C4244: 'function' : conversion from 'SIZE_T' to 'DWORD', possible loss of data
+         pcx.c
+     1>..\..\..\src\lib\util\ARAPlib\pcx.c(87): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>..\..\..\src\lib\util\ARAPlib\pcx.c(197): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>..\..\..\src\lib\util\ARAPlib\pcx.c(252): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"lib\intel\x64\Release\ARAPlib_lib.lib" /NOLOGO /MACHINE:X64 tmp\intel\x64\Release\lib\ARAPlib/C2Fortran.obj
+         tmp\intel\x64\Release\lib\ARAPlib/dib.obj
+         tmp\intel\x64\Release\lib\ARAPlib/pcx.obj
+         ARAPlib_lib.vcxproj -> U:\scipuff\Repository\UNIX\EPRIx64_OMP\SCICHEM-3.2\build\windows\workspace\EPRI\vs2013\lib\intel\x64\Release\ARAPlib_lib.lib
+     1>Done Building Project "U:\scipuff\Repository\UNIX\EPRIx64_OMP\SCICHEM-3.2\build\windows\workspace\EPRI\vs2013\ARAPlib_lib.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.63

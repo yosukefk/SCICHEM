@@ -1,0 +1,2 @@
+# Include file for makefile using static libraries
+LIBDEPENDS=libfdatums.a libsag.a libarap.a libscipuff.a libodepack.a libprime.a libaqaer.a liblocalMPI.a

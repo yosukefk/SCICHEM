@@ -1,0 +1,42 @@
+# Intel compiler
+
+COMPILER = ifort
+
+FC = ifort
+
+F77 = $(FC) 
+
+CC = cc
+
+LB = ar
+
+LNK = $(FC)
+
+FCFLAGS = -c -names lowercase -O2 -fp-model strict -fpic -assume byterecl -mixed-str-len-arg -align sequence -traceback -recursive
+
+#F77FLAGS = $(FCFLAGS) -openmp -openmp-report=1 -132
+F77FLAGS = $(FCFLAGS) -132
+
+CCFLAGS = -c -fpic -DLinux -DNOFUNCDEF -DUTIME_H
+
+CLNKFLAGS = -DLinux
+
+LBFLAGS = rus
+
+LNKFLAGS = -static-libgcc -assume byterecl -align sequence -traceback -o
+  LNKLIB += -L $(INTEL_VERSION)/compiler/lib/intel64 -liomp5
+INCFLAGS = -I ${NETCDF_LIB_PATH}/include
+
+LNKLIB = 
+
+ifeq ($(LSuf),a)
+  LD = ar rs
+  LDFLAGS = 
+else
+  LD = $(FC) -o
+  LDFLAGS = -shared -static-libgcc 
+endif
+
+I = -I
+
+M = -I

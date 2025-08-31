@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualStudioUserFile ProjectCreator="Intel Fortran" Keyword="Console Application - Converted from CVF" Version="11.0" ProjectIdGuid="{7C6C6D23-E591-4758-8634-6A8A6737A81D}">
+	<Configurations>
+		<Configuration Name="Release|Win32"/>
+		<Configuration Name="Debug|Win32"/>
+		<Configuration Name="Release|x64" CommandArguments="-I:D:\scipuff\runs\epri\2018-11-29\omp1thread\scipuff.ini -P:ss" WorkingDirectory="D:\scipuff\runs\epri\2018-11-29\omp1thread"/>
+		<Configuration Name="Debug|x64"/></Configurations></VisualStudioUserFile>

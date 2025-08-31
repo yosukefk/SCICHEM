@@ -1,0 +1,14 @@
+﻿Build started 6/28/2021 1:46:02 PM.
+     1>Project "U:\scipuff\Repository\UNIX\EPRIx64_OMP\SCICHEM-3.2\build\windows\workspace\EPRI\vs2013\Messages_lib.vcxproj" on node 3 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (stubMPIc.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Ob1 /D WIN32 /D NDEBUG /D _WINDOWS /D _MBCS /D _USRDLL /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"tmp\intel\x64\Release\dll\Messages/" /Fd"tmp\intel\x64\Release\dll\Messages/vc120.pdb" /Gz /TC /errorReport:prompt ..\..\..\src\dll\util\Messages\callbackhandler.c
+         callbackhandler.c
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"x64\Release\Messages_lib.lib" /NOLOGO /MACHINE:X64 tmp\intel\x64\Release\dll\Messages/callbackhandler.obj
+         Messages_lib.vcxproj -> U:\scipuff\Repository\UNIX\EPRIx64_OMP\SCICHEM-3.2\build\windows\workspace\EPRI\vs2013\x64\Release\Messages_lib.lib
+     1>Done Building Project "U:\scipuff\Repository\UNIX\EPRIx64_OMP\SCICHEM-3.2\build\windows\workspace\EPRI\vs2013\Messages_lib.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.80

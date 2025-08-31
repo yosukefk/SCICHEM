@@ -1,0 +1,3862 @@
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T Cde2h
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_Cde2h
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T Cdh2e
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_Cdh2e
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC3__enddef
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC3__enddef
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC3_abort
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC3_abort
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC3_close
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC3_close
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC3_create
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC3_create
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC3_del_att
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC3_del_att
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC3_get_att
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC3_get_att
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC3_get_vara
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC3_get_vara
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC3_inq
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC3_inq
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC3_inq_att
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC3_inq_att
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC3_inq_attid
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC3_inq_attid
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC3_inq_attname
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC3_inq_attname
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC3_inq_base_pe
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC3_inq_base_pe
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC3_inq_format
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC3_inq_format
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC3_inq_type
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC3_inq_type
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC3_inq_unlimdim
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC3_inq_unlimdim
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC3_open
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC3_open
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC3_put_att
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC3_put_att
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC3_put_vara
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC3_put_vara
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC3_redef
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC3_redef
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC3_rename_att
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC3_rename_att
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC3_set_base_pe
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC3_set_base_pe
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC3_set_fill
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC3_set_fill
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC3_sync
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC3_sync
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4__enddef
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4__enddef
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_abort
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_abort
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_close
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_close
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_create
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_create
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_def_compound
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_def_compound
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_def_dim
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_def_dim
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_def_enum
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_def_enum
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_def_grp
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_def_grp
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_def_opaque
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_def_opaque
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_def_var
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_def_var
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_def_var_chunking
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_def_var_chunking
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_def_var_deflate
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_def_var_deflate
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_def_var_endian
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_def_var_endian
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_def_var_fill
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_def_var_fill
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_def_var_fletcher32
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_def_var_fletcher32
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_def_vlen
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_def_vlen
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_del_att
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_del_att
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_get_att
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_get_att
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_get_var_chunk_cache
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_get_var_chunk_cache
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_get_vara
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_get_vara
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_get_vlen_element
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_get_vlen_element
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_inq
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_inq
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_inq_att
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_inq_att
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_inq_attid
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_inq_attid
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_inq_attname
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_inq_attname
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_inq_compound_field
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_inq_compound_field
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_inq_compound_fieldindex
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_inq_compound_fieldindex
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_inq_dim
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_inq_dim
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_inq_dimid
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_inq_dimid
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_inq_dimids
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_inq_dimids
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_inq_enum_ident
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_inq_enum_ident
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_inq_enum_member
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_inq_enum_member
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_inq_grp_full_ncid
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_inq_grp_full_ncid
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_inq_grp_parent
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_inq_grp_parent
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_inq_grpname
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_inq_grpname
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_inq_grpname_full
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_inq_grpname_full
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_inq_grps
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_inq_grps
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_inq_ncid
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_inq_ncid
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_inq_type
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_inq_type
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_inq_type_equal
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_inq_type_equal
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_inq_typeid
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_inq_typeid
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_inq_typeids
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_inq_typeids
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_inq_unlimdim
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_inq_unlimdim
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_inq_unlimdims
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_inq_unlimdims
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_inq_user_type
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_inq_user_type
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_inq_var_all
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_inq_var_all
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_inq_varid
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_inq_varid
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_inq_varids
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_inq_varids
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_insert_array_compound
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_insert_array_compound
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_insert_compound
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_insert_compound
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_insert_enum
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_insert_enum
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_open
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_open
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_put_att
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_put_att
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_put_vara
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_put_vara
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_put_vlen_element
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_put_vlen_element
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_redef
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_redef
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_rename_att
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_rename_att
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_rename_dim
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_rename_dim
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_rename_var
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_rename_var
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_set_fill
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_set_fill
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_set_var_chunk_cache
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_set_var_chunk_cache
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_sync
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_sync
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC4_var_par_access
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC4_var_par_access
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+0000000000000000 T NC_findtestserver
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_NC_findtestserver
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_cdChar2Comp
+0000000000000000 T cdChar2Comp
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_cdParseRelunits
+0000000000000000 T cdParseRelunits
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_cdRel2Iso
+0000000000000000 T cdRel2Iso
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc__create
+0000000000000000 T nc__create
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc__create_mp
+0000000000000000 T nc__create_mp
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc__enddef
+0000000000000000 T nc__enddef
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc__open
+0000000000000000 T nc__open
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc__open_mp
+0000000000000000 T nc__open_mp
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_abort
+0000000000000000 T nc_abort
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_advise
+0000000000000000 T nc_advise
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_close
+0000000000000000 T nc_close
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_copy_att
+0000000000000000 T nc_copy_att
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_copy_var
+0000000000000000 T nc_copy_var
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_create
+0000000000000000 T nc_create
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_def_compound
+0000000000000000 T nc_def_compound
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_def_dim
+0000000000000000 T nc_def_dim
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_def_enum
+0000000000000000 T nc_def_enum
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_def_grp
+0000000000000000 T nc_def_grp
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_def_opaque
+0000000000000000 T nc_def_opaque
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_def_var
+0000000000000000 T nc_def_var
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_def_var_chunking
+0000000000000000 T nc_def_var_chunking
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_def_var_chunking_ints
+0000000000000000 T nc_def_var_chunking_ints
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_def_var_deflate
+0000000000000000 T nc_def_var_deflate
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_def_var_endian
+0000000000000000 T nc_def_var_endian
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_def_var_fill
+0000000000000000 T nc_def_var_fill
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_def_var_fletcher32
+0000000000000000 T nc_def_var_fletcher32
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_def_vlen
+0000000000000000 T nc_def_vlen
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_del_att
+0000000000000000 T nc_del_att
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_delete
+0000000000000000 T nc_delete
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_delete_mp
+0000000000000000 T nc_delete_mp
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_enddef
+0000000000000000 T nc_enddef
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_free_string
+0000000000000000 T nc_free_string
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_free_vlen
+0000000000000000 T nc_free_vlen
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_free_vlens
+0000000000000000 T nc_free_vlens
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_att
+0000000000000000 T nc_get_att
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_att_double
+0000000000000000 T nc_get_att_double
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_att_float
+0000000000000000 T nc_get_att_float
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_att_int
+0000000000000000 T nc_get_att_int
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_att_long
+0000000000000000 T nc_get_att_long
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_att_longlong
+0000000000000000 T nc_get_att_longlong
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_att_schar
+0000000000000000 T nc_get_att_schar
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_att_short
+0000000000000000 T nc_get_att_short
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_att_string
+0000000000000000 T nc_get_att_string
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_att_text
+0000000000000000 T nc_get_att_text
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_att_ubyte
+0000000000000000 T nc_get_att_ubyte
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_att_uchar
+0000000000000000 T nc_get_att_uchar
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_att_uint
+0000000000000000 T nc_get_att_uint
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_att_ulonglong
+0000000000000000 T nc_get_att_ulonglong
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_att_ushort
+0000000000000000 T nc_get_att_ushort
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_chunk_cache
+0000000000000000 T nc_get_chunk_cache
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_chunk_cache_ints
+0000000000000000 T nc_get_chunk_cache_ints
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var
+0000000000000000 T nc_get_var
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var1
+0000000000000000 T nc_get_var1
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var1_double
+0000000000000000 T nc_get_var1_double
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var1_float
+0000000000000000 T nc_get_var1_float
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var1_int
+0000000000000000 T nc_get_var1_int
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var1_long
+0000000000000000 T nc_get_var1_long
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var1_longlong
+0000000000000000 T nc_get_var1_longlong
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var1_schar
+0000000000000000 T nc_get_var1_schar
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var1_short
+0000000000000000 T nc_get_var1_short
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var1_string
+0000000000000000 T nc_get_var1_string
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var1_text
+0000000000000000 T nc_get_var1_text
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var1_ubyte
+0000000000000000 T nc_get_var1_ubyte
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var1_uchar
+0000000000000000 T nc_get_var1_uchar
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var1_uint
+0000000000000000 T nc_get_var1_uint
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var1_ulonglong
+0000000000000000 T nc_get_var1_ulonglong
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var1_ushort
+0000000000000000 T nc_get_var1_ushort
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var_chunk_cache
+0000000000000000 T nc_get_var_chunk_cache
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var_chunk_cache_ints
+0000000000000000 T nc_get_var_chunk_cache_ints
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var_double
+0000000000000000 T nc_get_var_double
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var_float
+0000000000000000 T nc_get_var_float
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var_int
+0000000000000000 T nc_get_var_int
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var_long
+0000000000000000 T nc_get_var_long
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var_longlong
+0000000000000000 T nc_get_var_longlong
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var_schar
+0000000000000000 T nc_get_var_schar
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var_short
+0000000000000000 T nc_get_var_short
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var_string
+0000000000000000 T nc_get_var_string
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var_text
+0000000000000000 T nc_get_var_text
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var_ubyte
+0000000000000000 T nc_get_var_ubyte
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var_uchar
+0000000000000000 T nc_get_var_uchar
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var_uint
+0000000000000000 T nc_get_var_uint
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var_ulonglong
+0000000000000000 T nc_get_var_ulonglong
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_var_ushort
+0000000000000000 T nc_get_var_ushort
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vara
+0000000000000000 T nc_get_vara
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vara_double
+0000000000000000 T nc_get_vara_double
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vara_float
+0000000000000000 T nc_get_vara_float
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vara_int
+0000000000000000 T nc_get_vara_int
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vara_long
+0000000000000000 T nc_get_vara_long
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vara_longlong
+0000000000000000 T nc_get_vara_longlong
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vara_schar
+0000000000000000 T nc_get_vara_schar
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vara_short
+0000000000000000 T nc_get_vara_short
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vara_string
+0000000000000000 T nc_get_vara_string
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vara_text
+0000000000000000 T nc_get_vara_text
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vara_ubyte
+0000000000000000 T nc_get_vara_ubyte
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vara_uchar
+0000000000000000 T nc_get_vara_uchar
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vara_uint
+0000000000000000 T nc_get_vara_uint
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vara_ulonglong
+0000000000000000 T nc_get_vara_ulonglong
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vara_ushort
+0000000000000000 T nc_get_vara_ushort
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_varm
+0000000000000000 T nc_get_varm
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_varm_double
+0000000000000000 T nc_get_varm_double
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_varm_float
+0000000000000000 T nc_get_varm_float
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_varm_int
+0000000000000000 T nc_get_varm_int
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_varm_long
+0000000000000000 T nc_get_varm_long
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_varm_longlong
+0000000000000000 T nc_get_varm_longlong
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_varm_schar
+0000000000000000 T nc_get_varm_schar
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_varm_short
+0000000000000000 T nc_get_varm_short
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_varm_string
+0000000000000000 T nc_get_varm_string
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_varm_text
+0000000000000000 T nc_get_varm_text
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_varm_ubyte
+0000000000000000 T nc_get_varm_ubyte
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_varm_uchar
+0000000000000000 T nc_get_varm_uchar
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_varm_uint
+0000000000000000 T nc_get_varm_uint
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_varm_ulonglong
+0000000000000000 T nc_get_varm_ulonglong
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_varm_ushort
+0000000000000000 T nc_get_varm_ushort
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vars
+0000000000000000 T nc_get_vars
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vars_double
+0000000000000000 T nc_get_vars_double
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vars_float
+0000000000000000 T nc_get_vars_float
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vars_int
+0000000000000000 T nc_get_vars_int
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vars_long
+0000000000000000 T nc_get_vars_long
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vars_longlong
+0000000000000000 T nc_get_vars_longlong
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vars_schar
+0000000000000000 T nc_get_vars_schar
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vars_short
+0000000000000000 T nc_get_vars_short
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vars_string
+0000000000000000 T nc_get_vars_string
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vars_text
+0000000000000000 T nc_get_vars_text
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vars_ubyte
+0000000000000000 T nc_get_vars_ubyte
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vars_uchar
+0000000000000000 T nc_get_vars_uchar
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vars_uint
+0000000000000000 T nc_get_vars_uint
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vars_ulonglong
+0000000000000000 T nc_get_vars_ulonglong
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vars_ushort
+0000000000000000 T nc_get_vars_ushort
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_get_vlen_element
+0000000000000000 T nc_get_vlen_element
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq
+0000000000000000 T nc_inq
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_att
+0000000000000000 T nc_inq_att
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_attid
+0000000000000000 T nc_inq_attid
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_attlen
+0000000000000000 T nc_inq_attlen
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_attname
+0000000000000000 T nc_inq_attname
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_atttype
+0000000000000000 T nc_inq_atttype
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_base_pe
+0000000000000000 T nc_inq_base_pe
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_compound
+0000000000000000 T nc_inq_compound
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_compound_field
+0000000000000000 T nc_inq_compound_field
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_compound_fielddim_sizes
+0000000000000000 T nc_inq_compound_fielddim_sizes
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_compound_fieldindex
+0000000000000000 T nc_inq_compound_fieldindex
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_compound_fieldname
+0000000000000000 T nc_inq_compound_fieldname
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_compound_fieldndims
+0000000000000000 T nc_inq_compound_fieldndims
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_compound_fieldoffset
+0000000000000000 T nc_inq_compound_fieldoffset
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_compound_fieldtype
+0000000000000000 T nc_inq_compound_fieldtype
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_compound_name
+0000000000000000 T nc_inq_compound_name
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_compound_nfields
+0000000000000000 T nc_inq_compound_nfields
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_compound_size
+0000000000000000 T nc_inq_compound_size
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_dim
+0000000000000000 T nc_inq_dim
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_dimid
+0000000000000000 T nc_inq_dimid
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_dimids
+0000000000000000 T nc_inq_dimids
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_dimlen
+0000000000000000 T nc_inq_dimlen
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_dimname
+0000000000000000 T nc_inq_dimname
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_enum
+0000000000000000 T nc_inq_enum
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_enum_ident
+0000000000000000 T nc_inq_enum_ident
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_enum_member
+0000000000000000 T nc_inq_enum_member
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_format
+0000000000000000 T nc_inq_format
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_grp_full_ncid
+0000000000000000 T nc_inq_grp_full_ncid
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_grp_ncid
+0000000000000000 T nc_inq_grp_ncid
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_grp_parent
+0000000000000000 T nc_inq_grp_parent
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_grpname
+0000000000000000 T nc_inq_grpname
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_grpname_full
+0000000000000000 T nc_inq_grpname_full
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_grpname_len
+0000000000000000 T nc_inq_grpname_len
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_grps
+0000000000000000 T nc_inq_grps
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_libvers
+0000000000000000 T nc_inq_libvers
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_natts
+0000000000000000 T nc_inq_natts
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_ncid
+0000000000000000 T nc_inq_ncid
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_ndims
+0000000000000000 T nc_inq_ndims
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_nvars
+0000000000000000 T nc_inq_nvars
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_opaque
+0000000000000000 T nc_inq_opaque
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_path
+0000000000000000 T nc_inq_path
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_type
+0000000000000000 T nc_inq_type
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_type_equal
+0000000000000000 T nc_inq_type_equal
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_typeid
+0000000000000000 T nc_inq_typeid
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_typeids
+0000000000000000 T nc_inq_typeids
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_unlimdim
+0000000000000000 T nc_inq_unlimdim
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_unlimdims
+0000000000000000 T nc_inq_unlimdims
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_user_type
+0000000000000000 T nc_inq_user_type
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_var
+0000000000000000 T nc_inq_var
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_var_chunking
+0000000000000000 T nc_inq_var_chunking
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_var_chunking_ints
+0000000000000000 T nc_inq_var_chunking_ints
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_var_deflate
+0000000000000000 T nc_inq_var_deflate
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_var_endian
+0000000000000000 T nc_inq_var_endian
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_var_fill
+0000000000000000 T nc_inq_var_fill
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_var_fletcher32
+0000000000000000 T nc_inq_var_fletcher32
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_var_szip
+0000000000000000 T nc_inq_var_szip
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_vardimid
+0000000000000000 T nc_inq_vardimid
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_varid
+0000000000000000 T nc_inq_varid
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_varids
+0000000000000000 T nc_inq_varids
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_varname
+0000000000000000 T nc_inq_varname
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_varnatts
+0000000000000000 T nc_inq_varnatts
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_varndims
+0000000000000000 T nc_inq_varndims
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_vartype
+0000000000000000 T nc_inq_vartype
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_inq_vlen
+0000000000000000 T nc_inq_vlen
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_insert_array_compound
+0000000000000000 T nc_insert_array_compound
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_insert_compound
+0000000000000000 T nc_insert_compound
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_insert_enum
+0000000000000000 T nc_insert_enum
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_open
+0000000000000000 T nc_open
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_att
+0000000000000000 T nc_put_att
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_att_double
+0000000000000000 T nc_put_att_double
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_att_float
+0000000000000000 T nc_put_att_float
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_att_int
+0000000000000000 T nc_put_att_int
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_att_long
+0000000000000000 T nc_put_att_long
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_att_longlong
+0000000000000000 T nc_put_att_longlong
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_att_schar
+0000000000000000 T nc_put_att_schar
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_att_short
+0000000000000000 T nc_put_att_short
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_att_string
+0000000000000000 T nc_put_att_string
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_att_text
+0000000000000000 T nc_put_att_text
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_att_ubyte
+0000000000000000 T nc_put_att_ubyte
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_att_uchar
+0000000000000000 T nc_put_att_uchar
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_att_uint
+0000000000000000 T nc_put_att_uint
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_att_ulonglong
+0000000000000000 T nc_put_att_ulonglong
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_att_ushort
+0000000000000000 T nc_put_att_ushort
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var
+0000000000000000 T nc_put_var
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var1
+0000000000000000 T nc_put_var1
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var1_double
+0000000000000000 T nc_put_var1_double
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var1_float
+0000000000000000 T nc_put_var1_float
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var1_int
+0000000000000000 T nc_put_var1_int
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var1_long
+0000000000000000 T nc_put_var1_long
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var1_longlong
+0000000000000000 T nc_put_var1_longlong
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var1_schar
+0000000000000000 T nc_put_var1_schar
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var1_short
+0000000000000000 T nc_put_var1_short
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var1_string
+0000000000000000 T nc_put_var1_string
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var1_text
+0000000000000000 T nc_put_var1_text
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var1_ubyte
+0000000000000000 T nc_put_var1_ubyte
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var1_uchar
+0000000000000000 T nc_put_var1_uchar
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var1_uint
+0000000000000000 T nc_put_var1_uint
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var1_ulonglong
+0000000000000000 T nc_put_var1_ulonglong
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var1_ushort
+0000000000000000 T nc_put_var1_ushort
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var_double
+0000000000000000 T nc_put_var_double
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var_float
+0000000000000000 T nc_put_var_float
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var_int
+0000000000000000 T nc_put_var_int
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var_long
+0000000000000000 T nc_put_var_long
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var_longlong
+0000000000000000 T nc_put_var_longlong
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var_schar
+0000000000000000 T nc_put_var_schar
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var_short
+0000000000000000 T nc_put_var_short
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var_string
+0000000000000000 T nc_put_var_string
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var_text
+0000000000000000 T nc_put_var_text
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var_ubyte
+0000000000000000 T nc_put_var_ubyte
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var_uchar
+0000000000000000 T nc_put_var_uchar
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var_uint
+0000000000000000 T nc_put_var_uint
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var_ulonglong
+0000000000000000 T nc_put_var_ulonglong
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_var_ushort
+0000000000000000 T nc_put_var_ushort
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vara
+0000000000000000 T nc_put_vara
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vara_double
+0000000000000000 T nc_put_vara_double
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vara_float
+0000000000000000 T nc_put_vara_float
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vara_int
+0000000000000000 T nc_put_vara_int
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vara_long
+0000000000000000 T nc_put_vara_long
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vara_longlong
+0000000000000000 T nc_put_vara_longlong
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vara_schar
+0000000000000000 T nc_put_vara_schar
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vara_short
+0000000000000000 T nc_put_vara_short
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vara_string
+0000000000000000 T nc_put_vara_string
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vara_text
+0000000000000000 T nc_put_vara_text
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vara_ubyte
+0000000000000000 T nc_put_vara_ubyte
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vara_uchar
+0000000000000000 T nc_put_vara_uchar
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vara_uint
+0000000000000000 T nc_put_vara_uint
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vara_ulonglong
+0000000000000000 T nc_put_vara_ulonglong
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vara_ushort
+0000000000000000 T nc_put_vara_ushort
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_varm
+0000000000000000 T nc_put_varm
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_varm_double
+0000000000000000 T nc_put_varm_double
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_varm_float
+0000000000000000 T nc_put_varm_float
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_varm_int
+0000000000000000 T nc_put_varm_int
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_varm_long
+0000000000000000 T nc_put_varm_long
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_varm_longlong
+0000000000000000 T nc_put_varm_longlong
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_varm_schar
+0000000000000000 T nc_put_varm_schar
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_varm_short
+0000000000000000 T nc_put_varm_short
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_varm_string
+0000000000000000 T nc_put_varm_string
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_varm_text
+0000000000000000 T nc_put_varm_text
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_varm_ubyte
+0000000000000000 T nc_put_varm_ubyte
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_varm_uchar
+0000000000000000 T nc_put_varm_uchar
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_varm_uint
+0000000000000000 T nc_put_varm_uint
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_varm_ulonglong
+0000000000000000 T nc_put_varm_ulonglong
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_varm_ushort
+0000000000000000 T nc_put_varm_ushort
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vars
+0000000000000000 T nc_put_vars
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vars_double
+0000000000000000 T nc_put_vars_double
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vars_float
+0000000000000000 T nc_put_vars_float
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vars_int
+0000000000000000 T nc_put_vars_int
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vars_long
+0000000000000000 T nc_put_vars_long
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vars_longlong
+0000000000000000 T nc_put_vars_longlong
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vars_schar
+0000000000000000 T nc_put_vars_schar
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vars_short
+0000000000000000 T nc_put_vars_short
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vars_string
+0000000000000000 T nc_put_vars_string
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vars_text
+0000000000000000 T nc_put_vars_text
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vars_ubyte
+0000000000000000 T nc_put_vars_ubyte
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vars_uchar
+0000000000000000 T nc_put_vars_uchar
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vars_uint
+0000000000000000 T nc_put_vars_uint
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vars_ulonglong
+0000000000000000 T nc_put_vars_ulonglong
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vars_ushort
+0000000000000000 T nc_put_vars_ushort
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_put_vlen_element
+0000000000000000 T nc_put_vlen_element
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_redef
+0000000000000000 T nc_redef
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_rename_att
+0000000000000000 T nc_rename_att
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_rename_dim
+0000000000000000 T nc_rename_dim
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_rename_var
+0000000000000000 T nc_rename_var
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_set_base_pe
+0000000000000000 T nc_set_base_pe
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_set_chunk_cache
+0000000000000000 T nc_set_chunk_cache
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_set_chunk_cache_ints
+0000000000000000 T nc_set_chunk_cache_ints
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_set_default_format
+0000000000000000 T nc_set_default_format
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_set_fill
+0000000000000000 T nc_set_fill
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_set_var_chunk_cache
+0000000000000000 T nc_set_var_chunk_cache
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_set_var_chunk_cache_ints
+0000000000000000 T nc_set_var_chunk_cache_ints
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_show_metadata
+0000000000000000 T nc_show_metadata
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_strerror
+0000000000000000 T nc_strerror
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_sync
+0000000000000000 T nc_sync
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nc_var_par_access
+0000000000000000 T nc_var_par_access
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncabort
+0000000000000000 T ncabort
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncattcopy
+0000000000000000 T ncattcopy
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncattdel
+0000000000000000 T ncattdel
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncattget
+0000000000000000 T ncattget
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncattinq
+0000000000000000 T ncattinq
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncattname
+0000000000000000 T ncattname
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncattput
+0000000000000000 T ncattput
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncattrename
+0000000000000000 T ncattrename
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncclose
+0000000000000000 T ncclose
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nccreate
+0000000000000000 T nccreate
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncdimdef
+0000000000000000 T ncdimdef
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncdimid
+0000000000000000 T ncdimid
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncdiminq
+0000000000000000 T ncdiminq
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncdimrename
+0000000000000000 T ncdimrename
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncendef
+0000000000000000 T ncendef
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncinquire
+0000000000000000 T ncinquire
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncopen
+0000000000000000 T ncopen
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncrecget
+0000000000000000 T ncrecget
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncrecinq
+0000000000000000 T ncrecinq
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncrecput
+0000000000000000 T ncrecput
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncredef
+0000000000000000 T ncredef
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncsetfill
+0000000000000000 T ncsetfill
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncsync
+0000000000000000 T ncsync
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_nctypelen
+0000000000000000 T nctypelen
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncvardef
+0000000000000000 T ncvardef
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncvarget
+0000000000000000 T ncvarget
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncvarget1
+0000000000000000 T ncvarget1
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncvargetg
+0000000000000000 T ncvargetg
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncvargets
+0000000000000000 T ncvargets
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncvarid
+0000000000000000 T ncvarid
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncvarinq
+0000000000000000 T ncvarinq
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncvarput
+0000000000000000 T ncvarput
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncvarput1
+0000000000000000 T ncvarput1
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncvarputg
+0000000000000000 T ncvarputg
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncvarputs
+0000000000000000 T ncvarputs
+
+netcdf.dll:
+0000000000000000 I .idata$4
+0000000000000000 I .idata$5
+0000000000000000 I .idata$6
+0000000000000000 T .text
+                 U __IMPORT_DESCRIPTOR_netcdf
+0000000000000000 I __imp_ncvarrename
+0000000000000000 T ncvarrename
