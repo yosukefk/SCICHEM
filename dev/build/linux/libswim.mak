@@ -101,7 +101,7 @@ OBJS_f90 := $(subst .f90,.o,$(SRCS_f90))
 
 OBJS :=  $(OBJS_f90) 
 FCFLAGS_OMP = $(FCFLAGS)
-FCFLAGS_OMP += -openmp -openmp-report=1
+FCFLAGS_OMP += -qopenmp -qopenmp-report=1
 
 DIRS = dll/SCIPUFF/SWIM dll/SCIPUFF/SWIM/inc dll/util/ClimoReader dll/SCIPUFF/uwm
 

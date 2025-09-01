@@ -286,7 +286,7 @@ OBJS_f := $(subst .f,.o,$(SRCS_f))
 
 OBJS :=  $(OBJS_f90)  $(OBJS_f) 
 FCFLAGS_OMP = $(FCFLAGS)
-FCFLAGS_OMP += -openmp -openmp-report=1
+FCFLAGS_OMP += -qopenmp -qopenmp-report=1
 
 DIRS = lib/SCIPUFFlib/FileMgr/inc lib/SCIPUFFlib/SCIPUFF/inc lib/SCIPUFFlib/SCIMgr/inc lib/SCIPUFFlib/FileMgr dll/SCIPUFF/SWIM/inc lib/SCIPUFFlib/SCIPUFF lib/SCIPUFFlib/PlotMgr/inc lib/SCIPUFFlib/PlotMgr lib/SCIPUFFlib/SCIMgr dll/SCIPUFF/LandUse lib/PRIME
 

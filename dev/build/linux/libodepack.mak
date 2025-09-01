@@ -46,7 +46,7 @@ OBJS_f := $(notdir $(subst .f,.o,$(SRCS_f)))
 OBJS :=  $(OBJS_f) 
 
 F77FLAGS_OMP = $(F77FLAGS)
-F77FLAGS_OMP += -openmp -openmp-report=1
+F77FLAGS_OMP += -qopenmp -qopenmp-report=1
 all: $(PROG) separator
 
 separator:
