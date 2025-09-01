@@ -1,4 +1,7 @@
 #!/bin/bash
+# (2025-08-31) standard set of safeguard for bash script, except that -u not used, seems like there are lots of undefined variables in script
+#set -euxo pipefail
+set -exo pipefail
 
 CLEAN=$1
 
@@ -25,7 +28,9 @@ echo "NETCDF_LIB_PATH=$NETCDF_LIB_PATH"
 echo "OMP_LIB_PATH=$OMP_LIB_PATH"
 echo "LD_LIBRARY_PATH=$LD_LIBRARY_PATH"
 
+# (2025-08-31) there are no makefile for srf2smp smp2post.  dropped for now
 Makelist="libarap libodepack libsag liblocalMPI libaqaer libscipuff libprime libfdatums libsystool libmessages liblanduse libswim libsciptool libxpp metsci tersci runsci scipp sciDOSpost srf2smp smp2post"
+Makelist="libarap libodepack libsag liblocalMPI libaqaer libscipuff libprime libfdatums libsystool libmessages liblanduse libswim libsciptool libxpp metsci tersci runsci scipp sciDOSpost                 "
 #Makelist="sciDOSpost"
 
 #
@@ -40,7 +45,9 @@ elif [ "$Compiler_Version" == "pg" ]; then
   export PATH=/opt/pgi/linux86/6.1/bin:$PATH
   echo $PATH
 else
-  source /opt/intel/composer_xe_2013_sp1.3.174/bin/ifortvars.sh intel64
+  # (2025-08-31) TACC @ UT does not have composer_xe.  Assumed that compiler's version are the same
+  #source /opt/intel/composer_xe_2013_sp1.3.174/bin/ifortvars.sh intel64
+  source /opt/intel/compilers_and_libraries_2020.1.217/linux/bin/ifortvars.sh intel64
 fi
 
 if ! [ -d ${Compiler_Version} ] ; then
@@ -84,3 +91,5 @@ do
     cp -pv $Compiler_Version/$fex ../../bin/linux
   fi
 done
+
+# vim: et sw=2
